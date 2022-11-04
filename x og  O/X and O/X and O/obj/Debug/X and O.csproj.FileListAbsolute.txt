@@ -1,0 +1,11 @@
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\bin\Debug\X and O.exe.config
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\bin\Debug\X and O.exe
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\bin\Debug\X and O.pdb
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.csproj.AssemblyReference.cache
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X_and_O.Form1.resources
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X_and_O.Properties.Resources.resources
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.csproj.GenerateResource.cache
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.csproj.CoreCompileInputs.cache
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.exe
+C:\Users\nico6\OneDrive\C#\x og  O\X and O\X and O\obj\Debug\X and O.pdb
